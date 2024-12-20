@@ -22,3 +22,9 @@ Delete previously cloned folder:
 ```bash
 rm -rf ~/vim-config
 ```
+<br>
+
+Install all plugins:
+```bash
+vim -c "PlugInstall"
+```

@@ -5,7 +5,7 @@ This is my `vim` config. Feel free to use, copy and modify it as you want.
 * Vim (https://www.vim.org)
 * Vim-Plug (https://github.com/junegunn/vim-plug)
 
-# Installation
+# Installation (Unix)
 Clone this repository to home directory:
 ```bash
 git clone https://github.com/king-of-ducks/vim-config.git ~/vim-config
